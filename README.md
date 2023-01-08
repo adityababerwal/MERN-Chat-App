@@ -8,7 +8,13 @@ Online platform where people can interact with individuals directly or in groups
 
 ## Installation 
 Clone this repo 
-`git clone https://github.com/adityababerwal/MERN-Chat-App.git`
+
+<code>
+git clone https://github.com/adityababerwal/MERN-Chat-App.git
+</code>
 
 Use Node Package Manager to install required packages
-`npm i`
+
+<code>
+npm i
+</code>
