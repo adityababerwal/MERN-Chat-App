@@ -15,5 +15,5 @@ Clone this repo
 
 Use Node Package Manager to install required packages
 <pre>
-<code>npm i</code>
+<code>cd MERN-Chat-App && npm i</code>
 </pre>
